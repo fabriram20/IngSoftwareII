@@ -2,6 +2,6 @@
 
 int main()
 {
-        printf("Hola mundo version 0.9");
+        printf("Hola mundo version 2.0");
         return 0;
 }
